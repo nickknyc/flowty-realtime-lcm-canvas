@@ -7,3 +7,6 @@ beam_main.py
 __pycache__/
 .DS_store
 .env
+.venv
+.vscode
+models/
